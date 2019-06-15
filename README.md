@@ -1,2 +1,2 @@
 # spamham
-spam ham detector
+spam ham detector implemented in flask
